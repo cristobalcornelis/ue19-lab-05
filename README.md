@@ -10,3 +10,4 @@
  Dans votre terminal tapper la commande "pip install request".
  Ensuite lancer le code avec la commande "python app.py" en prenant garde de bien
  vous trouvez dans le répertoire où se trouve votre fichier python.
+
